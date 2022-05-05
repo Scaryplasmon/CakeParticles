@@ -1,5 +1,5 @@
 # CakeParticles
-Blender Addon to Bake Particles as Keyframed Objects
+Blender Addon that lets you Bake Particles as Keyframed Objects with just a few Clicks
 
 "Cake Particles would've not been possible without a Big Help from @Joshua and all the Developers that Posted their Answers at these Links in the Past https://tiny.one/StackExchange https://tiny.one/BartSketchfab"
 
