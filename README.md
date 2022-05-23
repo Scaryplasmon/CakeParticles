@@ -1,6 +1,11 @@
 # CakeParticles
 Blender Addon that lets you Bake Particles as Keyframed Objects with just a few Clicks
 
+VER 1.1.0 Now Supports Baking Multiple Particle Objects (all the Objects you keep selected when Clicking the Button)
+
+Here's a Video of the Process
+https://vimeo.com/713033849
+
 "Cake Particles would've not been possible without a Big Help from @Joshua and all the Developers that Posted their Answers at these Links in the Past https://tiny.one/StackExchange https://tiny.one/BartSketchfab"
 
 -Cake Particles is an Addon for Blender that lets you Bake your Particles Simulations into Keyframed Objects.
