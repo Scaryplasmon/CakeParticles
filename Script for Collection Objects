@@ -7,7 +7,7 @@ KEYFRAME_SCALE = True
 KEYFRAME_VISIBILITY = False
 KEYFRAME_VISIBILITY_SCALE = True
 
-
+#Keep the Emitter Active and the Objects selected
 
 def create_objects_for_particles(ps, ps_name, particles_coll):
 
