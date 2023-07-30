@@ -1,7 +1,14 @@
 # CakeParticles
 Blender Addon that lets you Bake Particles as Keyframed Objects with just a few Clicks
 
-VER 1.1.0 Now Supports Baking Multiple Particle Objects (all the Objects you keep selected when Clicking the Button)
+Ver 2.0 supports Bake Step and the Baking of Animated Grease Pencil Objects + Metaballs!
+With the Bake Step you can decide how frequently you want to Keyframe the Simulation!
+(Higher values ++Performant ++Easy to adjust, but also ++Unstable)
+
+Video Update
+https://youtu.be/VH0fRbaSrPo
+
+VER >>1.1.0+ Support Baking Multiple Particle Objects (all the Objects you keep selected when Clicking the Button)
 
 Here's a Video of the Process
 https://vimeo.com/713033849
