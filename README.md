@@ -28,7 +28,12 @@ Bake your Particle Simulations into Keyframed Objects
 Using the BakeStep, you can choose to keyframe only every N number of frames!
 
 ## Examples
-See it live at [SketchFab](https://skfb.ly/o9RPG)
+See it live on Sketchfab
+
+[Cyberpunk Game VFX](https://skfb.ly/ovBXn)
+
+[Stylized animation](https://skfb.ly/o9RPG)
+
 
 ### Bake Particles into Keyframed Objects
 This feature creates a new collection with your particle objects in it. Useful for:
