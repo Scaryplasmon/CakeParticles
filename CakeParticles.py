@@ -7,7 +7,7 @@ bl_info = {
     "version": (3, 0, 0),
     "location": "ObjectProperties",
     "warning": "",
-    "doc_url": "https://sites.google.com/view/cakeparticlesdocs/home-page",
+    "doc_url": "https://github.com/Scaryplasmon/CakeParticles",
     "tracker_url": "",
     "category": "Physics"
 }
