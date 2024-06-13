@@ -8,7 +8,8 @@ Bake your Particle Simulations into Keyframed Objects
 
 ## Features
 <img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/1be3ad4e-5c3a-493d-8a4e-d1bf9f5ceb98" width="400">
-<img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/6d9c07b6-d0b6-4273-b916-b00f7778f0fe" width="400">
+<img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/b68d19fa-2375-494d-a5aa-ac1d01150b3a" width="400">
+
 
 ### Version 2.5 Updates:
 - Improved Bake_Step
