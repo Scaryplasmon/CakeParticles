@@ -1,15 +1,20 @@
-# Cake Particles (❁´◡`❁)
+# Cake Particles (❁´◡`❁) <img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/be40e1ac-dc8c-4e28-aaa8-f0a6f73378c5" width="100">
 Bake your Particle Simulations into Keyframed Objects
 
 
-[<img src="https://img.youtube.com/vi/VH0fRbaSrPo/0.jpg" style="width:400px; height:260px; object-fit:crop;">](https://www.youtube.com/embed/VH0fRbaSrPo)
-<img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/be40e1ac-dc8c-4e28-aaa8-f0a6f73378c5" width="400">
+
+
+https://github.com/Scaryplasmon/CakeParticles/assets/90010990/4ff7ebb0-220c-40ba-ae2f-3747e6b46e97
+
 
 
 ## Features
 <img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/1be3ad4e-5c3a-493d-8a4e-d1bf9f5ceb98" width="400">
 <img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/b68d19fa-2375-494d-a5aa-ac1d01150b3a" width="400">
 
+### Version 3.0 Updates:
+- Added support for Blender 4.0
+- added Randomizer for Grease Pencil animations
 
 ### Version 2.5 Updates:
 - Improved Bake_Step
@@ -29,6 +34,8 @@ Bake your Particle Simulations into Keyframed Objects
 Using the BakeStep, you can choose to keyframe only every N number of frames!
 
 ## Examples
+<img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/be40e1ac-dc8c-4e28-aaa8-f0a6f73378c5" width="400">
+
 See it live on Sketchfab
 
 [Cyberpunk Game VFX](https://skfb.ly/ovBXn)
