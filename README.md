@@ -1,8 +1,8 @@
 # Cake Particles (❁´◡`❁) <img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/be40e1ac-dc8c-4e28-aaa8-f0a6f73378c5" width="100">
 Bake your Particle Simulations into Keyframed Objects
 
-
-
+Feel free to grab it also from the blender extension platform
+https://extensions.blender.org/approval-queue/cake-particles/
 
 https://github.com/Scaryplasmon/CakeParticles/assets/90010990/4ff7ebb0-220c-40ba-ae2f-3747e6b46e97
 
