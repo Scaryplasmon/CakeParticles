@@ -111,7 +111,7 @@ def match_object_to_particle(particle, obj, frame):
     
     visibility = particle.alive_state == 'ALIVE'
     if KEYFRAME_VISIBILITY_SCALE:
-        obj.scale = (0.001, 0.001, 0.001) if not visibility else (particle.size,) * 3
+        obj.scale = (0.0001, 0.0001, 0.0001) if not visibility else (particle.size,) * 3
 
     if visibility:
         obj.hide_viewport = False
