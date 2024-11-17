@@ -2,15 +2,26 @@
 Bake your Particle Simulations into Keyframed Objects
 
 Feel free to grab it also from the blender extension platform
-https://extensions.blender.org/approval-queue/cake-particles/
+https://extensions.blender.org/add-ons/cake-particles/
 
 https://github.com/Scaryplasmon/CakeParticles/assets/90010990/4ff7ebb0-220c-40ba-ae2f-3747e6b46e97
 
 
 
 ## Features
-<img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/1be3ad4e-5c3a-493d-8a4e-d1bf9f5ceb98" width="400">
-<img src="https://github.com/Scaryplasmon/CakeParticles/assets/90010990/b68d19fa-2375-494d-a5aa-ac1d01150b3a" width="400">
+<img src="https://github.com/user-attachments/assets/63f2d40c-1335-4fd3-837c-b9726f0f2348" width="600">
+<img src="https://github.com/user-attachments/assets/1738ad03-257b-4239-ac2d-e0ed2942cb70" width="400">
+
+### Version 4.3 Updates:
+- Moved suggestions to a collapsed panel to unclog UI
+- New Collection system to manage multiple bakes within the same scene
+- Re-Baking implemented (just hit bake again and overwrite the previous collection)
+- Improved fail-safe messages and overall UX
+
+if particles don´t appear to be rotating make sure to enable the "Dynamic" option in the particle settings
+
+<img src="https://github.com/user-attachments/assets/f639b9dd-a5fa-47ba-8081-b8f74a5d036a" width="400">
+
 
 ### Version 3.0 Updates:
 - Added support for Blender 4.0
